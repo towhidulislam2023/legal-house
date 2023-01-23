@@ -1,3 +1,9 @@
 *{
     font-family: 'EB Garamond', serif;
 }
+.cu-bg-set{ 
+    height:72.5vh;
+    width: 100%;
+    background: linear-gradient(rgba(0, 0, 0, 0.438),rgba(0, 0, 0, 0.548)) ,url(../images/Rectangle\ 6.png);
+    background-repeat: no-repeat;
+}
